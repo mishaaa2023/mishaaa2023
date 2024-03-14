@@ -1,6 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQE7yT0gLU7Cgw/profile-displaybackgroundimage-shrink_350_1400/0/1710319507728?e=1715817600&v=beta&t=1hKgyIJuSWkL5xSt56ptjYLu08_E1aErB8XEXMtdx4c)]
+[![MasterHead width="full"](https://media.licdn.com/dms/image/D4D16AQE7yT0gLU7Cgw/profile-displaybackgroundimage-shrink_350_1400/0/1710319507728?e=1715817600&v=beta&t=1hKgyIJuSWkL5xSt56ptjYLu08_E1aErB8XEXMtdx4c )
 <h1 align="center">Hi 👋, I'm Mysha</h1>
-<img alt="Image"src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5612AQF0td1eeX2hOQ%2Farticle-cover_image-shrink_600_2000%2F0%2F1668116755349%3Fe%3D2147483647%26v%3Dbeta%26t%3DFbpW9mvZGaK5z8Cu5VpWv59lbDx5hZOxxs-qKJV1W-o&tbnid=b70fzC4iQckemM&vet=12ahUKEwiezcG6p_OEAxWwZaQEHeXODBYQMyguegUIARD-AQ..i&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcoding-marketers-best-friend-jimmy-vue%3Ftrk%3Darticle-ssr-frontend-pulse_more-articles_related-content-card&docid=ykKwUdFz1OR-hM&w=800&h=600&q=coding%20animated%20gif&ved=2ahUKEwiezcG6p_OEAxWwZaQEHeXODBYQMyguegUIARD-AQ"/>
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishaaa2023&label=Profile%20views&color=0e75b6&style=flat" alt="mishaaa2023" /> </p>
