@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mishafatimaali2013@gmail.com**
 
-- ⚡ Fun fact **I'm study at St Joseph Convent School in Cass 5**
+- ⚡ Fun fact **I study at St Joseph Convent School in Cass 5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
