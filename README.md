@@ -1,4 +1,4 @@
-[![MasterHead width="full"](https://media.licdn.com/dms/image/D4D16AQE7yT0gLU7Cgw/profile-displaybackgroundimage-shrink_350_1400/0/1710319507728?e=1715817600&v=beta&t=1hKgyIJuSWkL5xSt56ptjYLu08_E1aErB8XEXMtdx4c )
+(https://media.licdn.com/dms/image/D4D16AQE7yT0gLU7Cgw/profile-displaybackgroundimage-shrink_350_1400/0/1710319507728?e=1715817600&v=beta&t=1hKgyIJuSWkL5xSt56ptjYLu08_E1aErB8XEXMtdx4c )
 <h1 align="center">Hi 👋, I'm Mysha</h1>
 
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
